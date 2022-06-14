@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nrrarnn.github.io-simple-todo/static/css/main.00f44fe1.css",
+    "main.js": "/nrrarnn.github.io-simple-todo/static/js/main.aaebb6c6.js",
+    "static/js/787.cfc6ed2d.chunk.js": "/nrrarnn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js",
+    "index.html": "/nrrarnn.github.io-simple-todo/index.html",
+    "main.00f44fe1.css.map": "/nrrarnn.github.io-simple-todo/static/css/main.00f44fe1.css.map",
+    "main.aaebb6c6.js.map": "/nrrarnn.github.io-simple-todo/static/js/main.aaebb6c6.js.map",
+    "787.cfc6ed2d.chunk.js.map": "/nrrarnn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f44fe1.css",
+    "static/js/main.aaebb6c6.js"
+  ]
+}
