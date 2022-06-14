@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nrrarnn.github.io-simple-todo/static/css/main.00f44fe1.css",
-    "main.js": "/nrrarnn.github.io-simple-todo/static/js/main.aaebb6c6.js",
-    "static/js/787.cfc6ed2d.chunk.js": "/nrrarnn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js",
-    "index.html": "/nrrarnn.github.io-simple-todo/index.html",
-    "main.00f44fe1.css.map": "/nrrarnn.github.io-simple-todo/static/css/main.00f44fe1.css.map",
-    "main.aaebb6c6.js.map": "/nrrarnn.github.io-simple-todo/static/js/main.aaebb6c6.js.map",
-    "787.cfc6ed2d.chunk.js.map": "/nrrarnn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js.map"
+    "main.css": "/nrrarn.github.io-simple-todo/static/css/main.00f44fe1.css",
+    "main.js": "/nrrarn.github.io-simple-todo/static/js/main.ed975448.js",
+    "static/js/787.cfc6ed2d.chunk.js": "/nrrarn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js",
+    "index.html": "/nrrarn.github.io-simple-todo/index.html",
+    "main.00f44fe1.css.map": "/nrrarn.github.io-simple-todo/static/css/main.00f44fe1.css.map",
+    "main.ed975448.js.map": "/nrrarn.github.io-simple-todo/static/js/main.ed975448.js.map",
+    "787.cfc6ed2d.chunk.js.map": "/nrrarn.github.io-simple-todo/static/js/787.cfc6ed2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00f44fe1.css",
-    "static/js/main.aaebb6c6.js"
+    "static/js/main.ed975448.js"
   ]
 }
